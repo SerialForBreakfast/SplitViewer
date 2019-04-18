@@ -14,6 +14,7 @@
 		A86AFA062268D25E00987AF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A86AFA042268D25E00987AF6 /* Main.storyboard */; };
 		A86AFA082268D26000987AF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A86AFA072268D26000987AF6 /* Assets.xcassets */; };
 		A86AFA0B2268D26000987AF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A86AFA092268D26000987AF6 /* LaunchScreen.storyboard */; };
+		A86AFA132268D80400987AF6 /* ImagesNames.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86AFA122268D80400987AF6 /* ImagesNames.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A86AFA072268D26000987AF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A86AFA0A2268D26000987AF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A86AFA0C2268D26000987AF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A86AFA122268D80400987AF6 /* ImagesNames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesNames.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A86AFA022268D25E00987AF6 /* DetailViewController.swift */,
 				A86AFA042268D25E00987AF6 /* Main.storyboard */,
 				A86AFA072268D26000987AF6 /* Assets.xcassets */,
+				A86AFA122268D80400987AF6 /* ImagesNames.swift */,
 				A86AFA092268D26000987AF6 /* LaunchScreen.storyboard */,
 				A86AFA0C2268D26000987AF6 /* Info.plist */,
 				A86AF9FD2268D25E00987AF6 /* SplitViewer.xcdatamodeld */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A86AFA132268D80400987AF6 /* ImagesNames.swift in Sources */,
 				A86AF9FF2268D25E00987AF6 /* SplitViewer.xcdatamodeld in Sources */,
 				A86AF9FC2268D25E00987AF6 /* AppDelegate.swift in Sources */,
 				A86AFA012268D25E00987AF6 /* MasterViewController.swift in Sources */,
