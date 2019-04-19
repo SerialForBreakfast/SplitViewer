@@ -39,4 +39,7 @@ let ss = UIImage(named: "ss.jpg")!
 let th = UIImage(named: "th.jpg")!
 let tm = UIImage(named: "tm.jpg")!
 
-names = ["Bean","Angelina Jolie", "Danny Trejo", ""]
+
+class ImagesNames {
+    let names = ["Aziz Ansari", "Anthony Hopkins", "Angelina Jolie", "Bean", "Barack Obama", "Caitlin Jenner", "Dwayne Johnson", "Danny Trejo", "Donald Trump", "Emma Watson", "Homer Simpson", "Depiction of Jesus", "Justin Beiber", "Kim Kardashian", "Leonardo DiCaprio", "Leslie Jones", "Mask", "Mariah Carey", "Natalie Dormer", "Pope Francis", "Prince", "Peter Dinklage", "Steve Buscemi", "Sandra Bullock", "Sylvester Stallone", "Tom Hanks", "Hafbor Julius Bjornsson"]
+}
